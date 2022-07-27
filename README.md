@@ -1,5 +1,5 @@
 # MALIC
-Source code and datasets of CIKM-21 paper, Topic Modeling for Multi-Aspect Listwise Comparisons, by [Delvin Ce Zhang](http://www.delvincezhang.com) and [Hady W. Lauw](http://www.hadylauw.com).
+Source code and datasets of CIKM-21 paper, [Topic Modeling for Multi-Aspect Listwise Comparisons](https://www.dropbox.com/s/87wqh1pgx8vda2v/cikm21.pdf?dl=0), by [Delvin Ce Zhang](http://www.delvincezhang.com) and [Hady W. Lauw](http://www.hadylauw.com).
 
 MALIC is a topic model that can incorporate document comparisons as meta-data to improve topic modeling quality and produce a list of document comparison outcomes.
 
