@@ -1,0 +1,540 @@
+top_2	alcohol_consumption	68	11	26	33	43	122	2
+top_2	alcohol_consumption	170	53	111	165	142	0	93
+top_2	alcohol_consumption	48	184	217	26	9	20	154
+top_2	alcohol_consumption	39	33	157	44	86	83	96
+top_2	alcohol_consumption	26	25	155	16	97	161	128
+top_3	alcohol_consumption	157	109	129	52	132	16	44	20
+top_3	alcohol_consumption	78	213	155	109	46	215	179	187
+top_3	alcohol_consumption	201	1	128	105	183	120	186	122
+top_3	alcohol_consumption	155	1	58	112	145	220	140	183
+top_3	alcohol_consumption	214	11	8	84	53	136	140	59
+top_4	alcohol_consumption	217	26	113	210	207	221	92	42	15
+top_4	alcohol_consumption	48	60	55	108	80	128	57	193	205
+top_4	alcohol_consumption	182	89	202	142	46	193	221	123	42
+top_4	alcohol_consumption	184	11	170	181	46	145	215	193	136
+top_4	alcohol_consumption	68	45	147	141	25	98	96	183	137
+3_way	alcohol_consumption	159	83	120
+3_way	alcohol_consumption	184	123	135
+3_way	alcohol_consumption	78	102	22
+3_way	alcohol_consumption	224	96	114
+3_way	alcohol_consumption	217	16	51
+4_way	alcohol_consumption	148	97	142	51
+4_way	alcohol_consumption	72	175	124	179
+4_way	alcohol_consumption	45	43	140	51
+4_way	alcohol_consumption	147	172	186	221
+4_way	alcohol_consumption	45	5	208	122
+5_way	alcohol_consumption	172	132	224	49	107
+5_way	alcohol_consumption	216	50	152	72	165
+5_way	alcohol_consumption	18	71	195	9	15
+5_way	alcohol_consumption	191	84	83	158	197
+5_way	alcohol_consumption	47	84	155	61	0
+choice_5	alcohol_consumption	130	184	117	217	215
+choice_5	alcohol_consumption	208	128	200	102	91
+choice_5	alcohol_consumption	214	213	182	47	53
+choice_5	alcohol_consumption	201	108	209	120	135
+choice_5	alcohol_consumption	47	195	159	99	93
+choice_10	alcohol_consumption	185	18	141	47	53	58	85	98	128	102
+choice_10	alcohol_consumption	147	31	113	108	49	140	221	59	93	127
+choice_10	alcohol_consumption	130	116	168	163	144	71	53	112	85	220
+choice_10	alcohol_consumption	17	94	138	84	98	229	220	67	42	114
+choice_10	alcohol_consumption	191	39	31	202	125	208	142	192	57	183
+choice_15	alcohol_consumption	169	29	12	172	160	148	85	215	176	49	204	51	122	54	146
+choice_15	alcohol_consumption	168	163	189	182	195	8	219	1	136	20	28	179	54	114	127
+choice_15	alcohol_consumption	94	73	103	39	100	202	61	229	46	57	67	136	183	2	135
+choice_15	alcohol_consumption	216	144	12	172	148	55	46	104	139	66	205	140	0	178	107
+choice_15	alcohol_consumption	184	185	84	129	55	202	98	181	142	38	139	51	28	93	56
+top_2	cigarette_consumption	68	89	154	145	31	205	55
+top_2	cigarette_consumption	141	35	193	16	192	19	49
+top_2	cigarette_consumption	9	2	166	150	202	153	113
+top_2	cigarette_consumption	169	12	173	193	153	175	33
+top_2	cigarette_consumption	191	68	150	152	67	82	90
+top_3	cigarette_consumption	117	180	68	219	89	35	58	192
+top_3	cigarette_consumption	103	191	210	227	138	205	85	59
+top_3	cigarette_consumption	48	164	14	86	121	53	201	52
+top_3	cigarette_consumption	18	185	188	112	122	227	30	33
+top_3	cigarette_consumption	12	60	73	14	39	136	147	205
+top_4	cigarette_consumption	48	103	56	144	136	204	201	55	7
+top_4	cigarette_consumption	9	168	8	120	159	153	175	85	55
+top_4	cigarette_consumption	1	18	48	47	14	208	193	201	59
+top_4	cigarette_consumption	132	180	45	107	133	224	120	53	33
+top_4	cigarette_consumption	18	217	89	216	71	200	23	20	49
+3_way	cigarette_consumption	68	219	135
+3_way	cigarette_consumption	91	191	105
+3_way	cigarette_consumption	60	97	8
+3_way	cigarette_consumption	48	130	2
+3_way	cigarette_consumption	181	25	46
+4_way	cigarette_consumption	1	29	91	187
+4_way	cigarette_consumption	196	217	152	140
+4_way	cigarette_consumption	76	141	166	67
+4_way	cigarette_consumption	4	12	72	163
+4_way	cigarette_consumption	183	136	227	28
+5_way	cigarette_consumption	158	161	128	223	200
+5_way	cigarette_consumption	76	24	161	137	146
+5_way	cigarette_consumption	94	123	37	78	62
+5_way	cigarette_consumption	197	91	26	85	61
+5_way	cigarette_consumption	13	184	114	57	33
+choice_5	cigarette_consumption	39	140	53	7	28
+choice_5	cigarette_consumption	48	181	188	49	127
+choice_5	cigarette_consumption	17	184	207	109	122
+choice_5	cigarette_consumption	40	110	164	84	28
+choice_5	cigarette_consumption	89	109	114	85	80
+choice_10	cigarette_consumption	88	214	100	176	163	183	128	223	58	46
+choice_10	cigarette_consumption	72	178	133	2	98	104	192	147	78	85
+choice_10	cigarette_consumption	185	50	207	216	208	123	182	223	114	49
+choice_10	cigarette_consumption	17	209	130	39	15	128	67	98	192	113
+choice_10	cigarette_consumption	18	24	92	181	41	204	157	53	228	80
+choice_15	cigarette_consumption	4	169	197	72	100	191	110	93	195	181	194	193	157	213	61
+choice_15	cigarette_consumption	214	209	189	45	50	216	86	35	154	16	57	20	19	55	127
+choice_15	cigarette_consumption	185	130	97	116	224	15	195	108	30	153	31	62	55	61	90
+choice_15	cigarette_consumption	119	18	12	214	189	73	69	217	188	71	153	146	55	83	28
+choice_15	cigarette_consumption	1	88	45	141	96	8	14	51	15	140	104	204	37	78	113
+top_2	electricity_production	153	197	135	102	203	84	172
+top_2	electricity_production	73	48	160	53	14	227	58
+top_2	electricity_production	96	106	117	142	67	173	105
+top_2	electricity_production	180	210	185	192	109	158	175
+top_2	electricity_production	8	96	164	219	33	31	64
+top_3	electricity_production	100	191	8	24	60	193	130	61
+top_3	electricity_production	163	39	68	102	229	143	21	172
+top_3	electricity_production	189	91	188	208	44	71	32	170
+top_3	electricity_production	199	48	220	200	80	5	121	211
+top_3	electricity_production	107	98	1	82	112	20	205	42
+top_4	electricity_production	163	41	49	110	158	138	170	65	78
+top_4	electricity_production	46	200	44	104	110	116	121	172	148
+top_4	electricity_production	56	8	12	159	166	165	86	201	173
+top_4	electricity_production	93	96	12	72	104	23	132	170	186
+top_4	electricity_production	168	144	150	165	99	128	25	84	64
+3_way	electricity_production	178	165	145
+3_way	electricity_production	210	157	85
+3_way	electricity_production	89	46	156
+3_way	electricity_production	44	145	71
+3_way	electricity_production	227	218	25
+4_way	electricity_production	62	45	67	59
+4_way	electricity_production	199	202	62	125
+4_way	electricity_production	56	214	135	173
+4_way	electricity_production	90	2	180	20
+4_way	electricity_production	18	13	106	3
+5_way	electricity_production	87	104	133	124	78
+5_way	electricity_production	189	188	114	33	84
+5_way	electricity_production	92	107	219	182	38
+5_way	electricity_production	100	141	193	78	3
+5_way	electricity_production	191	164	227	201	211
+choice_5	electricity_production	11	62	120	118	134
+choice_5	electricity_production	223	159	46	98	51
+choice_5	electricity_production	8	164	153	146	3
+choice_5	electricity_production	68	17	44	118	70
+choice_5	electricity_production	103	39	220	142	175
+choice_10	electricity_production	168	159	165	53	33	1	143	51	172	174
+choice_10	electricity_production	191	87	45	157	106	132	16	7	3	83
+choice_10	electricity_production	169	11	68	183	29	114	192	102	172	176
+choice_10	electricity_production	178	92	185	24	49	229	30	20	37	186
+choice_10	electricity_production	2	147	74	1	116	213	32	19	123	113
+choice_15	electricity_production	217	191	56	220	164	192	137	32	118	124	146	65	204	211	176
+choice_15	electricity_production	189	178	129	122	76	144	94	150	185	47	71	167	58	105	148
+choice_15	electricity_production	100	26	129	97	11	2	87	13	200	60	116	121	138	127	187
+choice_15	electricity_production	34	135	55	136	192	104	49	137	106	145	140	79	10	36	146
+choice_15	electricity_production	26	154	93	159	192	72	157	79	138	167	32	25	51	20	83
+top_2	gdp	224	122	41	53	29	201	89
+top_2	gdp	168	110	71	85	108	61	19
+top_2	gdp	168	160	125	128	59	204	212
+top_2	gdp	50	220	44	89	9	130	84
+top_2	gdp	216	34	5	17	32	37	212
+top_3	gdp	152	76	144	153	116	30	173	66
+top_3	gdp	122	192	17	118	23	60	173	139
+top_3	gdp	92	202	50	219	0	133	19	186
+top_3	gdp	107	210	14	120	167	85	54	42
+top_3	gdp	161	137	228	20	38	31	113	139
+top_4	gdp	73	92	144	185	159	99	121	186	207
+top_4	gdp	161	183	122	29	153	25	1	127	16
+top_4	gdp	195	202	39	55	116	0	108	113	186
+top_4	gdp	217	91	195	147	157	33	208	85	126
+top_4	gdp	34	163	93	110	30	16	182	176	207
+3_way	gdp	214	107	20
+3_way	gdp	157	136	128
+3_way	gdp	164	55	193
+3_way	gdp	103	71	9
+3_way	gdp	111	89	109
+4_way	gdp	178	182	78	126
+4_way	gdp	96	138	67	10
+4_way	gdp	91	53	72	207
+4_way	gdp	215	121	177	186
+4_way	gdp	199	144	5	130
+5_way	gdp	214	159	33	89	139
+5_way	gdp	224	179	25	123	175
+5_way	gdp	34	188	118	23	172
+5_way	gdp	191	94	214	33	186
+5_way	gdp	11	92	223	119	127
+choice_5	gdp	34	8	146	133	207
+choice_5	gdp	215	118	145	177	172
+choice_5	gdp	17	124	1	146	123
+choice_5	gdp	217	191	197	51	54
+choice_5	gdp	94	56	116	119	42
+choice_10	gdp	15	192	5	33	23	213	181	207	139	212
+choice_10	gdp	41	48	213	60	227	9	200	19	175	126
+choice_10	gdp	73	26	209	154	80	5	14	114	37	172
+choice_10	gdp	141	195	87	93	201	33	110	99	186	221
+choice_10	gdp	100	196	92	103	192	17	125	120	167	177
+choice_15	gdp	26	195	161	50	39	48	103	192	17	219	102	159	213	205	133
+choice_15	gdp	69	169	8	224	122	103	80	137	220	114	25	203	123	133	66
+choice_15	gdp	12	96	8	215	88	165	192	153	159	23	38	146	10	173	126
+choice_15	gdp	97	94	161	122	166	55	201	227	86	119	130	106	127	181	175
+choice_15	gdp	196	18	50	76	144	93	88	80	116	102	25	119	58	121	37
+top_2	government_budget	129	41	219	71	0	16	194
+top_2	government_budget	90	202	25	210	70	83	52
+top_2	government_budget	34	188	215	114	62	172	221
+top_2	government_budget	188	62	13	44	127	218	83
+top_2	government_budget	45	80	150	10	81	173	204
+top_3	government_budget	91	220	104	210	200	186	187	66
+top_3	government_budget	144	154	118	62	119	200	182	75
+top_3	government_budget	189	18	215	183	20	174	212	134
+top_3	government_budget	87	193	146	85	28	151	211	174
+top_3	government_budget	199	154	15	47	119	66	43	149
+top_4	government_budget	8	2	15	219	111	1	131	54	37
+top_4	government_budget	73	141	129	118	179	58	204	52	207
+top_4	government_budget	199	224	122	116	165	205	222	134	148
+top_4	government_budget	217	69	141	166	220	44	140	61	113
+top_4	government_budget	40	169	160	147	57	179	200	61	126
+3_way	government_budget	192	78	151
+3_way	government_budget	39	54	204
+3_way	government_budget	140	81	171
+3_way	government_budget	169	147	175
+3_way	government_budget	217	229	211
+4_way	government_budget	11	227	67	3
+4_way	government_budget	91	228	194	19
+4_way	government_budget	96	210	125	167
+4_way	government_budget	33	227	106	222
+4_way	government_budget	114	25	145	204
+5_way	government_budget	39	165	44	213	82
+5_way	government_budget	50	224	203	95	83
+5_way	government_budget	210	9	167	31	78
+5_way	government_budget	196	32	145	66	155
+5_way	government_budget	34	116	127	112	207
+choice_5	government_budget	178	180	140	229	123
+choice_5	government_budget	191	144	59	143	126
+choice_5	government_budget	216	152	56	157	204
+choice_5	government_budget	223	111	84	207	206
+choice_5	government_budget	90	44	49	127	222
+choice_10	government_budget	163	93	24	14	1	59	205	61	101	204
+choice_10	government_budget	41	46	185	98	208	86	150	66	64	162
+choice_10	government_budget	39	107	214	103	29	219	130	61	112	19
+choice_10	government_budget	96	107	185	180	208	119	108	4	51	3
+choice_10	government_budget	160	107	5	135	53	58	170	127	7	171
+choice_15	government_budget	11	96	92	122	154	135	24	140	72	38	84	186	151	66	212
+choice_15	government_budget	73	178	8	48	154	103	180	111	210	121	143	123	3	221	64
+choice_15	government_budget	97	152	91	163	122	104	147	192	111	165	80	146	112	131	43
+choice_15	government_budget	48	223	87	183	161	58	156	28	20	218	131	36	207	64	134
+choice_15	government_budget	191	129	196	223	183	2	219	98	159	125	67	197	182	3	171
+top_2	irrigated_land_area	32	17	104	85	82	83	218
+top_2	irrigated_land_area	92	193	73	141	104	163	16
+top_2	irrigated_land_area	202	85	180	5	45	204	218
+top_2	irrigated_land_area	154	129	97	44	146	20	51
+top_2	irrigated_land_area	8	223	80	47	48	116	87
+top_3	irrigated_land_area	154	169	11	214	39	32	159	112
+top_3	irrigated_land_area	26	188	76	200	229	127	185	167
+top_3	irrigated_land_area	55	192	136	216	86	182	156	37
+top_3	irrigated_land_area	96	1	201	30	38	107	138	51
+top_3	irrigated_land_area	0	100	193	188	150	62	130	74
+top_4	irrigated_land_area	188	161	178	39	80	96	215	59	204
+top_4	irrigated_land_area	40	217	163	196	83	18	213	67	19
+top_4	irrigated_land_area	91	191	8	152	61	54	18	143	112
+top_4	irrigated_land_area	214	197	144	9	88	119	216	54	25
+top_4	irrigated_land_area	0	223	46	23	130	132	68	83	185
+3_way	irrigated_land_area	214	109	9
+3_way	irrigated_land_area	92	100	146
+3_way	irrigated_land_area	214	99	205
+3_way	irrigated_land_area	220	55	61
+3_way	irrigated_land_area	214	88	29
+4_way	irrigated_land_area	202	114	112	110
+4_way	irrigated_land_area	93	55	82	25
+4_way	irrigated_land_area	91	93	38	143
+4_way	irrigated_land_area	1	146	74	31
+4_way	irrigated_land_area	188	124	204	113
+5_way	irrigated_land_area	129	210	189	114	166
+5_way	irrigated_land_area	41	141	228	61	99
+5_way	irrigated_land_area	97	13	31	67	25
+5_way	irrigated_land_area	168	55	140	72	29
+5_way	irrigated_land_area	15	108	192	145	18
+choice_5	irrigated_land_area	129	169	188	132	175
+choice_5	irrigated_land_area	63	214	159	30	156
+choice_5	irrigated_land_area	202	188	46	124	25
+choice_5	irrigated_land_area	129	189	227	199	170
+choice_5	irrigated_land_area	32	132	20	165	203
+choice_10	irrigated_land_area	202	169	147	195	146	153	30	57	16	24
+choice_10	irrigated_land_area	202	122	147	145	119	136	194	125	113	181
+choice_10	irrigated_land_area	91	224	210	39	72	195	111	54	107	125
+choice_10	irrigated_land_area	103	193	39	109	62	146	86	74	173	7
+choice_10	irrigated_land_area	34	32	130	102	49	208	67	19	28	181
+choice_15	irrigated_land_area	169	97	191	11	100	76	147	130	159	82	33	170	113	87	151
+choice_15	irrigated_land_area	63	137	161	13	108	192	147	201	88	85	82	194	165	51	151
+choice_15	irrigated_land_area	154	26	93	69	160	193	161	223	2	145	196	59	170	185	19
+choice_15	irrigated_land_area	202	97	13	122	1	145	228	136	12	17	102	180	216	184	213
+choice_15	irrigated_land_area	93	11	210	178	140	72	1	88	180	194	47	14	51	175	218
+top_2	life_expectancy	73	40	92	103	93	109	112
+top_2	life_expectancy	39	114	220	108	179	82	33
+top_2	life_expectancy	47	2	160	173	176	114	161
+top_2	life_expectancy	26	129	126	93	25	170	146
+top_2	life_expectancy	57	108	140	71	0	167	5
+top_3	life_expectancy	76	219	202	57	197	170	59	0
+top_3	life_expectancy	97	50	44	156	108	221	71	127
+top_3	life_expectancy	115	163	24	41	160	159	84	167
+top_3	life_expectancy	100	115	88	29	170	146	58	38
+top_3	life_expectancy	111	2	128	54	210	62	201	74
+top_4	life_expectancy	191	125	192	17	130	108	132	54	112
+top_4	life_expectancy	11	68	153	28	86	132	54	51	228
+top_4	life_expectancy	111	203	13	114	194	210	104	146	98
+top_4	life_expectancy	196	209	9	156	35	22	161	54	59
+top_4	life_expectancy	100	97	69	68	78	91	108	210	154
+3_way	life_expectancy	159	90	147
+3_way	life_expectancy	185	186	98
+3_way	life_expectancy	97	126	31
+3_way	life_expectancy	185	119	178
+3_way	life_expectancy	44	163	169
+4_way	life_expectancy	68	73	128	182
+4_way	life_expectancy	72	78	132	190
+4_way	life_expectancy	8	129	155	0
+4_way	life_expectancy	128	200	210	74
+4_way	life_expectancy	135	80	22	93
+5_way	life_expectancy	18	16	155	132	138
+5_way	life_expectancy	11	73	8	173	136
+5_way	life_expectancy	24	221	84	127	229
+5_way	life_expectancy	76	168	155	22	23
+5_way	life_expectancy	73	185	39	92	28
+choice_5	life_expectancy	47	44	175	194	190
+choice_5	life_expectancy	178	19	72	114	74
+choice_5	life_expectancy	119	132	154	59	204
+choice_5	life_expectancy	144	39	53	120	204
+choice_5	life_expectancy	216	63	193	213	38
+choice_10	life_expectancy	100	94	185	115	14	40	145	22	158	113
+choice_10	life_expectancy	87	152	94	184	203	214	32	105	98	112
+choice_10	life_expectancy	96	63	80	78	108	23	54	113	146	37
+choice_10	life_expectancy	183	216	192	168	86	159	15	91	61	83
+choice_10	life_expectancy	39	8	107	220	109	74	213	20	31	82
+choice_15	life_expectancy	4	46	202	129	19	155	208	130	221	120	42	121	85	138	83
+choice_15	life_expectancy	191	89	117	16	133	168	128	126	220	105	59	121	138	30	33
+choice_15	life_expectancy	189	94	68	7	192	168	53	203	208	57	35	200	93	54	71
+choice_15	life_expectancy	69	50	45	184	133	8	92	126	223	194	91	108	167	61	98
+choice_15	life_expectancy	100	4	219	55	122	126	13	130	54	137	51	59	127	0	33
+top_2	natural_disaster_risk	184	188	59	135	42	220	83
+top_2	natural_disaster_risk	138	119	154	136	30	51	207
+top_2	natural_disaster_risk	50	132	109	5	201	220	30
+top_2	natural_disaster_risk	152	34	216	25	202	82	98
+top_2	natural_disaster_risk	116	107	159	94	194	98	128
+top_3	natural_disaster_risk	78	203	111	13	109	104	112	42
+top_3	natural_disaster_risk	153	17	189	25	22	120	44	15
+top_3	natural_disaster_risk	125	181	12	94	130	136	28	161
+top_3	natural_disaster_risk	69	116	48	159	169	209	129	59
+top_3	natural_disaster_risk	152	185	29	138	5	127	179	86
+top_4	natural_disaster_risk	183	117	214	159	76	0	205	100	80
+top_4	natural_disaster_risk	96	107	26	227	90	108	31	85	54
+top_4	natural_disaster_risk	178	105	69	18	48	119	129	228	207
+top_4	natural_disaster_risk	14	153	47	184	130	227	46	40	98
+top_4	natural_disaster_risk	178	69	107	185	164	8	217	208	182
+3_way	natural_disaster_risk	164	122	113
+3_way	natural_disaster_risk	96	191	228
+3_way	natural_disaster_risk	73	229	54
+3_way	natural_disaster_risk	16	54	207
+3_way	natural_disaster_risk	78	34	188
+4_way	natural_disaster_risk	119	200	229	51
+4_way	natural_disaster_risk	60	147	224	128
+4_way	natural_disaster_risk	166	178	5	35
+4_way	natural_disaster_risk	181	153	24	37
+4_way	natural_disaster_risk	215	119	37	128
+5_way	natural_disaster_risk	185	219	88	157	28
+5_way	natural_disaster_risk	117	34	88	13	19
+5_way	natural_disaster_risk	69	110	41	208	74
+5_way	natural_disaster_risk	116	216	154	193	33
+5_way	natural_disaster_risk	178	184	111	13	83
+choice_5	natural_disaster_risk	117	191	209	157	145
+choice_5	natural_disaster_risk	69	130	61	121	82
+choice_5	natural_disaster_risk	214	200	228	182	84
+choice_5	natural_disaster_risk	58	71	98	51	146
+choice_5	natural_disaster_risk	102	202	84	224	28
+choice_10	natural_disaster_risk	196	153	185	58	46	37	180	136	179	221
+choice_10	natural_disaster_risk	96	117	48	88	188	42	141	136	100	57
+choice_10	natural_disaster_risk	14	216	93	94	109	223	112	124	204	54
+choice_10	natural_disaster_risk	14	152	11	72	213	160	208	224	80	176
+choice_10	natural_disaster_risk	107	110	9	59	41	5	90	104	192	127
+choice_15	natural_disaster_risk	215	68	156	73	214	119	129	40	22	61	20	100	128	44	15
+choice_15	natural_disaster_risk	78	56	156	117	181	214	144	92	130	119	46	19	154	193	120
+choice_15	natural_disaster_risk	69	73	163	48	12	219	94	109	202	49	208	84	39	15	176
+choice_15	natural_disaster_risk	89	116	110	11	97	58	111	197	160	200	201	193	82	120	221
+choice_15	natural_disaster_risk	14	215	153	47	48	159	216	169	26	203	41	62	49	67	128
+top_2	net_exports	84	182	23	144	128	179	2
+top_2	net_exports	122	28	98	54	44	45	104
+top_2	net_exports	169	25	139	220	128	179	2
+top_2	net_exports	26	224	151	134	42	150	133
+top_2	net_exports	114	14	220	49	113	190	53
+top_3	net_exports	40	114	115	184	159	35	119	137
+top_3	net_exports	26	107	114	64	150	119	193	209
+top_3	net_exports	26	11	173	218	138	68	187	180
+top_3	net_exports	97	219	171	33	54	120	17	24
+top_3	net_exports	202	5	155	49	208	120	146	164
+top_4	net_exports	103	28	3	208	106	24	99	47	62
+top_4	net_exports	40	196	33	42	125	44	137	157	15
+top_4	net_exports	97	63	204	78	31	211	4	188	75
+top_4	net_exports	14	54	51	9	197	214	104	102	76
+top_4	net_exports	97	5	153	11	150	16	1	96	34
+3_way	net_exports	13	128	190
+3_way	net_exports	88	133	102
+3_way	net_exports	19	72	62
+3_way	net_exports	39	146	99
+3_way	net_exports	178	68	125
+4_way	net_exports	3	136	175	57
+4_way	net_exports	202	20	130	201
+4_way	net_exports	189	195	71	213
+4_way	net_exports	13	144	1	111
+4_way	net_exports	22	124	213	216
+5_way	net_exports	13	17	86	75	34
+5_way	net_exports	3	7	77	17	209
+5_way	net_exports	183	115	84	16	111
+5_way	net_exports	189	199	206	139	154
+5_way	net_exports	215	160	188	102	135
+choice_5	net_exports	228	83	3	129	168
+choice_5	net_exports	147	58	83	173	87
+choice_5	net_exports	33	221	211	133	85
+choice_5	net_exports	219	121	70	24	161
+choice_5	net_exports	159	14	188	117	137
+choice_10	net_exports	48	158	74	131	59	54	17	143	29	72
+choice_10	net_exports	183	91	223	88	220	163	208	106	180	0
+choice_10	net_exports	103	151	211	205	128	187	227	214	46	209
+choice_10	net_exports	189	97	103	224	49	175	31	130	104	192
+choice_10	net_exports	91	42	204	136	19	8	200	138	179	106
+choice_15	net_exports	63	166	195	114	88	71	25	219	221	173	79	133	226	57	137
+choice_15	net_exports	118	194	225	33	207	181	10	205	113	213	85	32	44	34	216
+choice_15	net_exports	40	73	169	26	177	186	126	221	176	182	9	4	125	1	216
+choice_15	net_exports	169	215	224	194	65	151	105	126	7	21	8	133	1	197	191
+choice_15	net_exports	40	73	91	220	155	174	51	146	79	130	109	157	111	2	209
+top_2	obesity_rate	139	155	111	44	50	58	190
+top_2	obesity_rate	126	221	164	195	196	167	83
+top_2	obesity_rate	56	172	220	187	104	190	189
+top_2	obesity_rate	46	1	159	160	147	154	82
+top_2	obesity_rate	105	44	119	202	187	104	120
+top_3	obesity_rate	107	93	2	116	19	97	28	35
+top_3	obesity_rate	105	215	164	132	141	208	113	82
+top_3	obesity_rate	88	46	214	85	117	164	13	130
+top_3	obesity_rate	144	17	168	25	227	112	181	109
+top_3	obesity_rate	176	133	141	208	182	154	228	91
+top_4	obesity_rate	43	66	26	1	69	220	198	150	121
+top_4	obesity_rate	111	19	163	69	23	71	181	33	58
+top_4	obesity_rate	111	197	175	157	185	9	24	58	189
+top_4	obesity_rate	139	212	105	96	78	122	200	204	98
+top_4	obesity_rate	176	105	197	180	184	83	228	104	192
+3_way	obesity_rate	111	132	112
+3_way	obesity_rate	24	113	100
+3_way	obesity_rate	126	117	23
+3_way	obesity_rate	188	48	60
+3_way	obesity_rate	103	198	187
+4_way	obesity_rate	88	12	15	224
+4_way	obesity_rate	155	2	45	9
+4_way	obesity_rate	155	126	205	15
+4_way	obesity_rate	93	124	0	224
+4_way	obesity_rate	139	125	117	91
+5_way	obesity_rate	55	108	49	140	15
+5_way	obesity_rate	111	4	78	158	130
+5_way	obesity_rate	139	126	52	173	202
+5_way	obesity_rate	186	180	154	205	38
+5_way	obesity_rate	176	197	47	200	167
+choice_5	obesity_rate	153	133	103	123	190
+choice_5	obesity_rate	66	53	210	33	90
+choice_5	obesity_rate	69	141	196	228	30
+choice_5	obesity_rate	186	41	12	147	146
+choice_5	obesity_rate	4	119	196	112	35
+choice_10	obesity_rate	155	178	111	96	214	132	12	38	109	90
+choice_10	obesity_rate	43	126	176	111	188	78	23	49	146	15
+choice_10	obesity_rate	144	129	221	145	18	227	229	98	192	100
+choice_10	obesity_rate	144	129	188	94	29	157	168	41	210	182
+choice_10	obesity_rate	96	19	157	60	25	138	228	91	120	140
+choice_15	obesity_rate	176	153	96	29	175	110	16	168	195	9	210	229	98	189	90
+choice_15	obesity_rate	2	94	163	172	85	26	195	159	7	25	220	61	200	82	170
+choice_15	obesity_rate	105	93	153	4	157	68	86	78	185	55	82	37	192	59	189
+choice_15	obesity_rate	217	102	56	194	17	157	60	195	185	220	127	83	187	42	140
+choice_15	obesity_rate	178	194	191	168	68	60	160	28	33	204	83	123	22	146	120
+top_2	vehicles_per_capita	196	128	157	106	19	56	201
+top_2	vehicles_per_capita	191	175	157	35	61	200	71
+top_2	vehicles_per_capita	60	216	45	106	46	57	74
+top_2	vehicles_per_capita	34	114	189	26	67	91	205
+top_2	vehicles_per_capita	11	34	108	56	66	58	59
+top_3	vehicles_per_capita	34	163	153	106	138	228	136	170
+top_3	vehicles_per_capita	68	163	60	184	110	157	55	33
+top_3	vehicles_per_capita	76	168	122	40	111	192	98	224
+top_3	vehicles_per_capita	177	34	163	219	25	53	61	59
+top_3	vehicles_per_capita	26	67	102	193	109	150	62	85
+top_4	vehicles_per_capita	208	128	40	25	183	1	203	98	220
+top_4	vehicles_per_capita	177	196	164	195	29	7	130	93	127
+top_4	vehicles_per_capita	34	163	185	119	92	207	176	99	227
+top_4	vehicles_per_capita	191	40	1	106	78	35	160	193	201
+top_4	vehicles_per_capita	117	69	108	119	56	84	32	170	37
+3_way	vehicles_per_capita	169	72	219
+3_way	vehicles_per_capita	196	163	18
+3_way	vehicles_per_capita	221	71	182
+3_way	vehicles_per_capita	166	72	223
+3_way	vehicles_per_capita	203	176	227
+4_way	vehicles_per_capita	195	202	224	187
+4_way	vehicles_per_capita	129	106	220	181
+4_way	vehicles_per_capita	169	153	188	167
+4_way	vehicles_per_capita	96	208	215	181
+4_way	vehicles_per_capita	144	217	41	167
+5_way	vehicles_per_capita	128	157	111	56	187
+5_way	vehicles_per_capita	164	169	25	53	136
+5_way	vehicles_per_capita	107	94	50	61	200
+5_way	vehicles_per_capita	97	184	78	111	104
+5_way	vehicles_per_capita	11	69	39	52	213
+choice_5	vehicles_per_capita	69	208	223	193	213
+choice_5	vehicles_per_capita	69	156	98	57	137
+choice_5	vehicles_per_capita	152	72	93	228	30
+choice_5	vehicles_per_capita	196	18	215	2	46
+choice_5	vehicles_per_capita	114	157	160	192	161
+choice_10	vehicles_per_capita	144	114	107	122	108	55	13	66	42	154
+choice_10	vehicles_per_capita	131	11	97	116	178	130	139	93	82	186
+choice_10	vehicles_per_capita	115	110	208	7	25	80	161	109	86	31
+choice_10	vehicles_per_capita	169	103	7	172	92	157	156	49	228	90
+choice_10	vehicles_per_capita	47	164	45	153	102	87	156	49	31	186
+choice_15	vehicles_per_capita	69	216	166	178	9	209	35	203	147	227	74	51	86	124	127
+choice_15	vehicles_per_capita	34	97	152	166	39	108	178	175	13	192	179	33	71	124	170
+choice_15	vehicles_per_capita	131	89	34	117	50	133	172	214	67	118	102	23	98	20	150
+choice_15	vehicles_per_capita	28	117	12	48	114	195	69	128	183	1	106	221	51	224	71
+choice_15	vehicles_per_capita	131	68	48	7	172	188	173	55	41	138	93	23	156	182	82
+top_2	wealth_per_adult	196	191	199	166	173	7	103
+top_2	wealth_per_adult	94	39	29	91	194	33	31
+top_2	wealth_per_adult	189	24	111	130	72	202	51
+top_2	wealth_per_adult	69	116	129	9	130	145	74
+top_2	wealth_per_adult	16	169	15	161	201	147	204
+top_3	wealth_per_adult	100	199	185	141	29	208	130	54
+top_3	wealth_per_adult	196	14	10	103	221	137	140	51
+top_3	wealth_per_adult	100	24	129	192	41	92	25	62
+top_3	wealth_per_adult	164	181	102	52	159	84	54	201
+top_3	wealth_per_adult	69	191	152	215	116	168	176	227
+top_4	wealth_per_adult	153	67	2	19	62	147	214	204	37
+top_4	wealth_per_adult	183	97	50	208	173	209	19	201	85
+top_4	wealth_per_adult	196	34	50	219	25	224	227	51	31
+top_4	wealth_per_adult	189	111	122	99	103	59	167	204	121
+top_4	wealth_per_adult	50	107	181	24	104	59	121	182	31
+3_way	wealth_per_adult	110	8	0
+3_way	wealth_per_adult	208	84	179
+3_way	wealth_per_adult	195	129	138
+3_way	wealth_per_adult	76	116	16
+3_way	wealth_per_adult	181	123	74
+4_way	wealth_per_adult	183	215	72	136
+4_way	wealth_per_adult	11	7	186	51
+4_way	wealth_per_adult	89	60	0	121
+4_way	wealth_per_adult	87	103	15	59
+4_way	wealth_per_adult	84	158	42	20
+5_way	wealth_per_adult	96	28	7	13	20
+5_way	wealth_per_adult	207	78	169	2	120
+5_way	wealth_per_adult	217	29	93	56	84
+5_way	wealth_per_adult	192	103	221	15	85
+5_way	wealth_per_adult	40	16	103	104	137
+choice_5	wealth_per_adult	123	41	56	159	228
+choice_5	wealth_per_adult	183	195	93	200	182
+choice_5	wealth_per_adult	195	14	45	116	82
+choice_5	wealth_per_adult	157	25	23	200	228
+choice_5	wealth_per_adult	18	34	12	10	205
+choice_10	wealth_per_adult	14	29	176	130	92	19	8	108	154	124
+choice_10	wealth_per_adult	128	110	24	103	67	160	108	62	201	204
+choice_10	wealth_per_adult	141	48	153	17	7	138	41	72	179	136
+choice_10	wealth_per_adult	11	152	141	203	29	71	109	229	197	136
+choice_10	wealth_per_adult	196	100	94	152	141	210	188	138	135	205
+choice_15	wealth_per_adult	144	116	128	203	207	202	2	229	154	194	201	33	228	205	193
+choice_15	wealth_per_adult	11	87	184	203	178	1	180	55	130	92	26	23	229	140	201
+choice_15	wealth_per_adult	166	96	68	141	60	40	178	28	24	192	209	175	160	74	124
+choice_15	wealth_per_adult	69	28	173	192	135	145	158	91	227	201	20	0	38	136	85
+choice_15	wealth_per_adult	189	50	40	110	157	44	57	114	26	25	132	91	127	204	30
